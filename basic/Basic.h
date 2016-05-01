@@ -15,11 +15,11 @@ class modularExponent
 
 };
 
-class primalityTest
+/*class PrimalityTest
 {
 	public:
-		string MillerRabin(long int  , long int );
-};
+		string millerRabin(long int  , long int );
+};*/
 
 class RandomSearch
 {
